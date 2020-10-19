@@ -1,0 +1,6 @@
+F9 - Marcar/desmarcar breakpoint
+F5 - iniciar/continuar debug
+F10 - executar um passo (pula função)
+F11 - executar um passo (entra na função)
+SHIFT + F11 - sair do método em execução
+SHIFT + F5 - para debug
